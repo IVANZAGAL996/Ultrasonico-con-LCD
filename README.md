@@ -91,7 +91,7 @@ Cargamos programa e iniciamos simulacion y obtenemos los siguientes resultados:
 
 Desarrollado por Edgar Ivan Prospero Zagal Ponce
 
-[GitHub]()
+[GitHub](https://github.com/IVANZAGAL996)
 
 
 
