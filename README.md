@@ -2,7 +2,7 @@
 
 ## INTRODUCCION
 
-En esta practica haremos una combinacion de codigos para tranbajar con el sensor ultrasonico y poder visualizar la distancia en el display, ademas podremos observar nuestro nombre y el modulo qque estamos cursando.
+En esta practica haremos una combinacion de codigos para trabajar con el sensor ultrasonico y poder visualizar la distancia en el display, ademas podremos observar nuestro nombre y el modulo que estamos cursando.
 
 Empezaremos realizando el siguiente codigo:
 
